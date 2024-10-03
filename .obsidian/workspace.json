@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "fb352eb78c8c0fde",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1bec734cf608bad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b9be617e12c7910",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d99108e44e23ad4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a52c2e32799b59d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "398d1ce662dc849e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b20ca0e8e66c681f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f010d966701d4b36",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ee810100cf18d67b",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a9f6c19b3963e45",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "05197e38779822b1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c06a786dd7ef4add",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c830d26839c184d1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8e1020f3cfe53948",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          },
+          {
+            "id": "8b1297384bf77e97",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "0b9be617e12c7910",
+  "lastOpenFiles": [
+    "Templates/Resource Template.md",
+    "Templates/Project Template.md",
+    "Templates/Note Template.md",
+    "Templates/Literature Template.md",
+    "Templates/Kindle Highlights.md",
+    "Templates/Empresa Template.md",
+    "Templates/Daily notes template.md",
+    "Templates/Area Template.md",
+    "README.md",
+    "Templates"
+  ]
+}
