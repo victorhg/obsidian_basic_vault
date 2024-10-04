@@ -6,7 +6,10 @@ Created: <% tp.file.creation_date("YYYY-MM-DD") %>
 Links:
   - "[[Daily Notes]]"
 ---
+
 <%*
+// templater is having issues with the daily quote service, so this is a workaround:
+
 const jsonUrl = "https://api.allorigins.win/get?url=https://zenquotes.io/api/random";
 
 let response = await fetch(jsonUrl);

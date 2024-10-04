@@ -18,8 +18,45 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "c1931b2fbc7b5564",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exemplo Map of Content.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "fbc444bd9702806c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exemplo Map of Content.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dc59d4833cd8ffb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -80,6 +117,41 @@
         "type": "tabs",
         "children": [
           {
+            "id": "8b1297384bf77e97",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "c830d26839c184d1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8e1020f3cfe53948",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "e095661723e19b9a",
+        "type": "tabs",
+        "children": [
+          {
             "id": "05197e38779822b1",
             "type": "leaf",
             "state": {
@@ -107,42 +179,13 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "c830d26839c184d1",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "8e1020f3cfe53948",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
-            }
-          },
-          {
-            "id": "8b1297384bf77e97",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,17 +198,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0b9be617e12c7910",
+  "active": "dc59d4833cd8ffb2",
   "lastOpenFiles": [
+    "Templates/Area Template.md",
+    "1 - Projetos/Seu primeiro Vault.md",
+    "3 - Resources/Minibio.md",
     "Templates/Resource Template.md",
     "Templates/Project Template.md",
-    "Templates/Note Template.md",
     "Templates/Literature Template.md",
     "Templates/Kindle Highlights.md",
+    "Exemplo Map of Content.md",
+    "README.md",
     "Templates/Empresa Template.md",
     "Templates/Daily notes template.md",
-    "Templates/Area Template.md",
-    "README.md",
+    "4 - Archived",
+    "1 - Projetos",
+    "2 - Areas",
+    "3 - Resources",
+    "Templates/Note Template.md",
     "Templates"
   ]
 }
