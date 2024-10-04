@@ -10,6 +10,8 @@ Este arquivo funciona como um grande "saco de conteúdo" onde vc organiza o que 
 
 Use e abuse de Hashtags, Atributos, Buscas e Links para viabilizar o seu próprio mapa de conhecimento.
 
+Aqui você encontra alguns exemplos
+
 ---
 
 ![[Minibio#Minibio TLDR version]]

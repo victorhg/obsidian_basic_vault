@@ -15,17 +15,20 @@ Um exemplo de #moc ou Map of Contents pode ser encontrado em [[Exemplo Map of Co
 
 # Organização de Arquivos
 
-Este vault apresenta uma organização simples para o método PARA, de 
+Este vault apresenta uma organização simples para o [método PARA](https://fortelabs.com/books/), de Tiago Forte.
 
-
-- **Projetos** - coisas de curto prazo que precisam de ação mais imediata
+- **Projetos** - coisas de curto prazo que precisam de ação mais imediata e direta
 - **Areas** - Responsabilidade de longo prazo que fazem parte do meu mundo, como “pessoal” “escalada” “lambda3” ou “Meu site pessoal”
-- **Recursos** - Tópico de interesse que uso como referência é anotações. Literalmente qualquer outra coisa
+- **Resources** - Tópico de interesse que uso como referência é anotações. Literalmente qualquer outra coisa
 - **Arquivo** - aquilo que não uso mais - projetos finalizados, por exemplo
 
 # Plugins essenciais
 
-- Dataview
-- Templater
-- Calendar
+- Dataview - buscas nas notas
+- Templater - padronize a criação de arquivos
+- Calendar - gerenciar calendário
 
+
+Meus plugins se adaptaram ao meu dia-a-dia, e seguem um snapshot do que estou usando no momento.
+
+![[Screenshot 2024-09-11 at 09.45.07.png|150]]
